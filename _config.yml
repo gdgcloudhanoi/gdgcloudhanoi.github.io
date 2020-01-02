@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://blog.gdgcloudhanoi.com"
+#baseurl: ""
+#url: "https://blog.gdgcloudhanoi.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: GDG Cloud Hanoi Tech Blog                                    # site's title
