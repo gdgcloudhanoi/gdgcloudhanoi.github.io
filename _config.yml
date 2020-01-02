@@ -1,111 +1,53 @@
-repository: gdgcloudhanoi/gdgcloudhanoi.github.io
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://blog.gdgcloudhanoi.com"
 
-output:	web
-# this property is useful for conditional filtering of content that is separate from the PDF.
+# THEME-SPECIFIC CONFIGURATION
+title: GDG Cloud Hanoi Tech Blog                                    # site's title
+description: "GDG Cloud Hanoi Tech Blog"      # used by search engines
+avatar: assets/img/gdg.png                         # Empty for no avatar in navbar
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
-topnav_title: GDG Cloud Hanoi Tech Blog
-# this appears on the top navigation bar next to the home button
+# Header and footer text
+header_text:                                            # Change Blog header text
+header_feature_image: assets/img/pexels/gdgcloudhanoi.png
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
-site_title: GDG Cloud Hanoi Tech Blog
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
-company_name: GDG Cloud Hanoi
-# this appears in the footer
+# Features
+katex: true                                             # Enable if using math markup
+google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
+disqus_shortname:                                       # Your discus shortname for comments
+layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
+footer_icons:                                           # In _data/social.yml
+share_buttons:                                          # In _data/social.yml
+authors:                                                # In _data/authors.yml
+language:                                               # In _data/language.yml
 
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
 
-# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-# disqus_shortname: vietkubers-github-io
-# if you're using disqus for comments, add the shortname here. if not, leave this value blank.
-
-google_analytics: UA-126117321-2
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
-
-host: localhost
-# the preview server used. Leave as is.
-
-port: 4000
-# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
-
-exclude:
-  - .idea/
-  - .gitignore
-# these are the files and directories that jekyll will exclude from the build
-
-feedback_subject_line: "[Tech Blog] GDG Cloud Hanoi"
-
-feedback_email: contact@gdgcloudhanoi.com
-# used as a contact email for the Feedback link in the top navigation bar
-
-# feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
-
-# feedback_text: "Need help?"
-# if you uncomment the previous line, it changes the Feedback text
-
-# feedback_link: "http://helpy.io/"
-# if you uncomment the previous line, it changes where the feedback link points to
-
-highlighter: rouge
-# library used for syntax highlighting
-
-markdown: kramdown
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
-
-# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
-
+# PORTFOLIO
 collections:
-  tooltips:
-    output: false
-# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
+  portfolio:
+    output: true
+    permalink: /:collection/:name
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      comments: true
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "tooltips"
-    values:
-      layout: "page"
-      comments: true
-      search: true
-      tooltip: true
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*",
+          "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
-
-# these are defaults used for the frontmatter for these file types
-
-sidebars:
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
-
-description: "GDG Cloud Hanoi Tech Blog"
-# the description is used in the feed.xml file
+# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
