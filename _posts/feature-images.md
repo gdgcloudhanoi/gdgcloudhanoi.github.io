@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Feature images
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
-image: "assets/img/thumbnails/desk-messy.jpg" #seo tag
+feature-img: "assets/img/gdg.png"
+thumbnail: "assets/img/gdgcloudhanoi.png"
+image: "assets/img/gdg.png" #seo tag
 tags: [Test, Lorem]
 ---
 

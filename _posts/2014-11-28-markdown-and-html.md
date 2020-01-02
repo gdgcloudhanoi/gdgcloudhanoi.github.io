@@ -16,7 +16,7 @@ Content Cell  | Content Cell
 
 Here's an example of an image, which is included using Markdown:
 
-![Image of a glass on a book]({{ "/assets/img/pexels/book-glass.jpeg" | relative_url }})
+![Image of a glass on a book](/assets/img/gdg.png)
 
 Highlighting for code in Jekyll is done using Base16 or Rouge. This theme makes use of Rouge by default.
 
@@ -38,4 +38,4 @@ Type on Strap uses KaTeX to display maths. Equations such as $$S_n = a \times \f
 
 Alternatively, they can be shown on a new line:
 
-$$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
+$$ f(x) = \int \frac{3x^2+4x+6}{x-2} $$
