@@ -16,6 +16,7 @@
 .site-header {
   //padding-bottom: 1%;
   padding: 2% 2% 1% 2%;
+  font-family: 'Google Sans';
   background: $brand-color;
   display: inline-block;
   float: left;
@@ -35,10 +36,10 @@
   }
 
   .avatar {
-    height: 5em;
-    width: 5em;
+    height: 4em;
+    width: 4em;
     float: left;
-    margin-top: -32px;
+    margin-top: -28.5px;
     border-radius: 0.2em;
     margin-right: 0em;
     padding: 1px 1px;
@@ -47,9 +48,10 @@
 
   .site-title {
     float: left;
-    font-weight: bold;
+    font-weight: normal;
+    margin-top:-7px;
     font-family: $font-family-logo;
-    font-size: 1.3em;
+    font-size: 1.4em;
   }
 
   nav {

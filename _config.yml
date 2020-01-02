@@ -3,13 +3,13 @@
 #url: "https://blog.gdgcloudhanoi.com"
 
 # THEME-SPECIFIC CONFIGURATION
-title: GDG Cloud Hanoi Tech Blog                                    # site's title
+title: GDG Cloud Hanoi                                    # site's title
 description: "GDG Cloud Hanoi Tech Blog"      # used by search engines
 avatar: assets/img/gdg.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-# header_text: "GDG Cloud Hanoi"                                           # Change Blog header text
+header_text: "GCP Tech Blog"                                           # Change Blog header text
 header_feature_image: assets/img/pexels/gdgcloudhanoi.png
 footer_text: Powered by <a href="https://gdgcloudhanoi.com/">GDG Cloud Hanoi</a>
 
