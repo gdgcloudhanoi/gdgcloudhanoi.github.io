@@ -4,3 +4,5 @@ _site*
 *backup/
 .DS_Store
 .idea/
+.jekyll-cache/
+Gemfile.lock
