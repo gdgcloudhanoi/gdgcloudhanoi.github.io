@@ -3,9 +3,9 @@
 #url: "https://blog.gdgcloudhanoi.com"
 
 # THEME-SPECIFIC CONFIGURATION
-title: GDG Cloud Hanoi                                    # site's title
-description: "GDG Cloud Hanoi Tech Blog"      # used by search engines
-avatar: assets/img/gdg.png                         # Empty for no avatar in navbar
+title: "GDG Cloud Hanoi"                                    # site's title
+description: "Tech Blog"      # used by search engines
+avatar: assets/img/gdgcloudhanoi.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
