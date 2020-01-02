@@ -1,16 +1,16 @@
 # Icons on the footer
 rss: true         # Make sure you created a feed.xml with feed.xml layout
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: "contact@gdgcloudhanoi.com"    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook:
+facebook: "GDGCloudHanoi"
 flickr:
 gitlab:
-github: "sylhare"
+github: "truongnh1992"
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: "https://www.linkedin.com/in/truongnh1992/"         # Full URL
 pinterest:
 reddit:
 soundcloud:
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: "GDGCloudHanoi"          # "twitter username"
 vimeo:
 wordpress:
 youtube:
@@ -31,6 +31,6 @@ share:
   pinterest:
   pocket:
   reddit: true
-  linkedin:
+  linkedin: true
   wordpress:
   email: true

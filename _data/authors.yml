@@ -1,20 +1,16 @@
-rohanchandra: # author-id
-  name: "Rohan Chandra"
-  avatar: "https://avatars2.githubusercontent.com/u/816965?s=460&v=4"
-  url: "https://github.com/rohanchandra"
-sylhare:
-  name: Sylhare
-  avatar: "assets/img/avatars/sylhare_avatar.png"
-  url: "https://github.com/sylhare"
-mmistakes:
-  name: "Michael Rose"
-  avatar: "https://avatars3.githubusercontent.com/u/1376749?s=460&v=4"
+truongnh: # author-id
+  name: "Nguyen Hai Truong"
+  avatar: "https://avatars0.githubusercontent.com/u/25559744?s=460&v=4"
+  url: "https://github.com/truongnh1992"
+huynq:
+  name: "Nguyen Quang Huy"
+  avatar: 
+  url: "https://github.com/huynguyennovem"
+huydd:
+  name: "Dang Duc Huy"
+  avatar: 
   url: "https://github.com/mmistakes"
-mhagnumdw:
-  name: Mhagnumdw
-  avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-  url:
-unknown:
-  name: Unknown
-  avatar:
+HoaNH:
+  name: "Nguyen Huu Hoa"
+  avatar: 
   url:

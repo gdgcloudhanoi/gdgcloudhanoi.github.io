@@ -9,10 +9,9 @@ avatar: assets/img/gdg.png                         # Empty for no avatar in navb
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text:                                            # Change Blog header text
+header_text: ""                                           # Change Blog header text
 header_feature_image: assets/img/pexels/gdgcloudhanoi.png
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a>
+footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
@@ -21,12 +20,12 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 
 # Features
 katex: true                                             # Enable if using math markup
-google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
-disqus_shortname:                                       # Your discus shortname for comments
+google_analytics: UA-126117321-2                                        # Tracking ID, e.g. "UA-000000-01"
+disqus_shortname: blog-gdgcloudhanoi                                      # Your discus shortname for comments
 layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
-footer_icons:                                           # In _data/social.yml
-share_buttons:                                          # In _data/social.yml
-authors:                                                # In _data/authors.yml
+footer_icons: ["facebook", "twitter", "linkedin"]                                          # In _data/social.yml
+share_buttons: facebook                                          # In _data/social.yml
+authors: truongnh                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
 
 # PAGINATION
@@ -50,4 +49,3 @@ exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "
           "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
