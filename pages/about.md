@@ -2,13 +2,23 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+**GDG Cloud Hanoi** is inspired by [GDG Global](https://developers.google.com/community/gdg/). **We started our journey in June 2019**. 
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+We try to engage student developers, fresh graduates and professionals through our hack events & meetups. 
+GDG Cloud Hanoi is dedicated to building a strong community for GCP users in Hanoi.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+***Follow us:***
+* Website: [https://gdgcloudhanoi.com](https://gdgcloudhanoi.com)
+* Meetup: [https://www.meetup.com/GDG-Cloud-Hanoi/](https://www.meetup.com/GDG-Cloud-Hanoi/)
+* Facebook: [https://www.facebook.com/GDGCloudHanoi](https://www.facebook.com/GDGCloudHanoi)
+
+![GDGBanner](/assets/img/feature-images/GDGBanner.png)
+
+> GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons.
+
+
+
+
