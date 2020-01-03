@@ -1,10 +1,10 @@
 --- 
 layout: page
-title : Portfolio 
+title : Events
+subtitle: We run meetup for developers interested in resources and technology from Google Developers.
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Archive]
+tags: [event]
 ---
 
 {% include portfolio.html %}
