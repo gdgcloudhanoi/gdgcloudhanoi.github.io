@@ -1,16 +1,16 @@
 truongnh: # author-id
-  name: "Nguyen Hai Truong"
+  name: "Nguyen Hai-Truong"
   avatar: "assets/img/authors/TruongNH.jpg"
   url: "https://github.com/truongnh1992"
 huynq:
   name: "Nguyen Quang Huy"
-  avatar: 
+  avatar: "assets/img/authors/HuyNQ.png"
   url: "https://github.com/huynguyennovem"
 huydd:
   name: "Dang Duc Huy"
-  avatar: 
-  url: "https://github.com/mmistakes"
-HoaNH:
+  avatar: "assets/img/authors/HuyDD.png"
+  url: "https://github.com/Huykute"
+hoanh:
   name: "Nguyen Huu Hoa"
-  avatar: 
-  url:
+  avatar: "assets/img/authors/HoaNH.png"
+  url: "https://github.com/hoabka"
