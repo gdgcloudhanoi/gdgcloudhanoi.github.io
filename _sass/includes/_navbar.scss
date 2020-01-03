@@ -16,7 +16,6 @@
 .site-header {
   //padding-bottom: 1%;
   padding: 2% 2% 1% 2%;
-  font-family: 'Roboto';
   background: $brand-color;
   display: inline-block;
   float: left;
@@ -33,14 +32,16 @@
 
   a {
     color: $header-link-color;
+    font-family: 'Google Sans';
   }
 
   .avatar {
     height: 3em;
     width: 3em;
     float: left;
-    margin-top: -13px;
+    margin-top: -18px;
     padding: 1px 1px;
+	margin-right: 8px;
   }
 
   .site-title {
