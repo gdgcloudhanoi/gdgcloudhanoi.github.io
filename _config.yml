@@ -5,12 +5,12 @@
 # THEME-SPECIFIC CONFIGURATION
 title: "GDG Cloud Hanoi"                                    # site's title
 description: "Tech Blog"      # used by search engines
-avatar: assets/img/gdgcloudhanoi.png                         # Empty for no avatar in navbar
+avatar: assets/img/gdg.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: "Google Cloud Platform Tech Blog"                                           # Change Blog header text
-header_feature_image: assets/img/pexels/gcp.jpeg
+header_text: "GDG Cloud Hanoi Tech Blog"                                           # Change Blog header text
+header_feature_image: /assets/img/pexels/computer.jpeg 
 footer_text: Powered by <a href="https://gdgcloudhanoi.com/">GDG Cloud Hanoi</a>
 
 # Blog
@@ -48,4 +48,4 @@ plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*",
           "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 
-# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+#theme: type-on-strap                                  # if using the theme as a jekyll theme gem
