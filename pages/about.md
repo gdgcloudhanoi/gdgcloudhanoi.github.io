@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-tags: [About]
 ---
 
 **GDG Cloud Hanoi** is inspired by [GDG Global](https://developers.google.com/community/gdg/). **We started our journey in June 2019**. 

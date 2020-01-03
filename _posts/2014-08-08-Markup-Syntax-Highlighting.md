@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Markup: Syntax Highlighting"
-author: mmistakes
-tags: [code]
 ---
 
 From Michael's Rose [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting).
