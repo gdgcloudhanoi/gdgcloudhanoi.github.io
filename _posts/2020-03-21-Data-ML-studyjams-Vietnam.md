@@ -17,12 +17,9 @@ Người tham dự sẽ nhận được quyền truy cập miễn phí vào các
 
 Sẽ có rất nhiều những giải thưởng hấp dẫn dành cho những bạn hoàn thành tốt khóa học.
 
-
-
 ### 1. Đăng ký tham gia
 
-- Đăng ký tham gia tại: [http://bit.ly/data-ml](https://docs.google.com/forms/d/e/1FAIpQLSfcqpEKI1ZJYtdveXb0MA-EO68JsfQmmqkSzWNRgZpl5Jf3oA/viewform)
-- Nhận thư mời và tạo tài khoản Slack tại [https://gdgcloudvn.slack.com/](https://gdgcloudvn.slack.com/ ) 
+- Tham gia kênh Slack của GDG Cloud Vietnam tại [https://gdgcloudvn.slack.com/](https://slack-gdgcloudvietnam.herokuapp.com)
 
 ### 2. Cách kích hoạt một tháng miễn phí sử dụng Qwiklabs
 
@@ -40,18 +37,13 @@ Sẽ có rất nhiều những giải thưởng hấp dẫn dành cho những b�
 
 - **Bước 2:** Chọn khóa học: **`Machine Learning with TensorFlow on Google Cloud Platform Specialization`**
 
-- **Bước 3:** Hoàn thành thanh toán. Cần có thẻ tín dụng để thanh toán, nhưng sẽ không bị tính phí trong tháng đầu tiên và đăng ký có thể hủy bất cứ lúc nào.
+- **Bước 3:** Hoàn thành thanh toán. Cần có thẻ tín dụng để đăng ký, nhưng sẽ không bị tính phí trong tháng đầu tiên và đăng ký có thể hủy bất cứ lúc nào.
 
 - **Bước 4:** Hoàn thành khóa học Machine Learning with TensorFlow on Google Cloud Platform Specialization với sự hỗ trợ từ các chuyên gia.
-
 
 ---
 Nếu có câu hỏi thêm về thể thức tham gia và chương trình, các bạn có thể liên hệ trực tiếp qua Slack với @tuanminhn, và các bạn BTC GDG Cloud:
 
-Hà Nội: @truongnh, @huynq  
-Đà Nẵng: @Nguyen Thanh Liem, @Dat Nguyen  
-HCM: @huynhtranganhthu, @Pham Tuyen  
-
-
-
-
+Hà Nội: [@truongnh](https://gdgcloudvn.slack.com/), [@huynq](https://gdgcloudvn.slack.com/)  
+Đà Nẵng: [@Nguyen Thanh Liem](https://gdgcloudvn.slack.com/), [@Dat Nguyen](https://gdgcloudvn.slack.com/)  
+HCM: [@huynhtranganhthu](https://gdgcloudvn.slack.com/), [@Pham Tuyen](https://gdgcloudvn.slack.com/)  
