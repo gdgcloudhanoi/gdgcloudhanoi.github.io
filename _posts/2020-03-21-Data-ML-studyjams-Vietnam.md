@@ -3,7 +3,7 @@ layout: post
 title: "Data & Machine Learning Study Jam Vietnam 2020"
 thumbnail: "assets/img/coursera.png"
 color: rgb(16,155,232)
-tags: [tutorial]
+tags: [Machine Learning, Data, Study Jams, Google Cloud, GDG]
 ---
 
 *Những điều cần biết cho [Data and Machine Learning Study Jam in Vietnam 2020](https://www.facebook.com/events/557381181797478/)*  
