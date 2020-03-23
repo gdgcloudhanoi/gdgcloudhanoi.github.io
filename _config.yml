@@ -9,8 +9,8 @@ avatar: assets/img/gdg.png                         # Empty for no avatar in navb
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: "GDG Cloud Hanoi Tech Blog"                                           # Change Blog header text
-header_feature_image: /assets/img/pexels/computer.jpeg 
+header_text: "_"                                           # Change Blog header text
+header_feature_image: /assets/img/feature-images/GDGBanner.png 
 footer_text: Powered by <a href="https://gdgcloudhanoi.com/">GDG Cloud Hanoi</a>
 
 # Blog

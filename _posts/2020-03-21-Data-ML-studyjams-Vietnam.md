@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Data & Machine Learning Study Jam Vietnam 2020"
-thumbnail: "assets/img/coursera.png"
 color: rgb(16,155,232)
 tags: [Machine Learning, Data, Study Jams, Google Cloud, GDG]
 ---
