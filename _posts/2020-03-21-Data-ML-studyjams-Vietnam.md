@@ -75,6 +75,6 @@ Tham gia kênh Slack của GDG Cloud Vietnam tại [https://gdgcloudvn.slack.com
 ---
 Nếu có câu hỏi thêm về thể thức tham gia và chương trình, các bạn có thể liên hệ trực tiếp qua Slack với @tuanminhn, và các bạn BTC GDG Cloud:
 
-Hà Nội: [@truongnh](https://gdgcloudvn.slack.com/), [@huynq](https://gdgcloudvn.slack.com/)  
+Hà Nội: [@truongnh](https://gdgcloudvn.slack.com/), [@Huy Nguyen](https://gdgcloudvn.slack.com/)  
 Đà Nẵng: [@Nguyen Thanh Liem](https://gdgcloudvn.slack.com/), [@Dat Nguyen](https://gdgcloudvn.slack.com/)  
 HCM: [@huynhtranganhthu](https://gdgcloudvn.slack.com/), [@Pham Tuyen](https://gdgcloudvn.slack.com/)  
