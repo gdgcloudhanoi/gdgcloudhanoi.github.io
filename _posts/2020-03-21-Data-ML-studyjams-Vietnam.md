@@ -32,7 +32,7 @@ Tham gia kênh Slack của GDG Cloud Vietnam tại [https://gdgcloudvn.slack.com
 
 - **Bước 3:** Hoàn thành 1 Lab trong Quest **`Baseline: Data, ML, AI`** ở bước 1. Nếu bạn từng tham gia và hoàn thành Quest này rồi, vui lòng dùng một Email khác để đăng ký và làm lại để có quyền truy cập Qwiklabs miễn phí 1 tháng.
 
-- **Bước 4:** Hoàn thành ít nhất **3 Quests** và share hình các Huy Hiệu lên facebook kèm hashtag #DataMachineLearningStudyJamVN #GDGCloudHCM #GDGCloudHanoi #GDGCloudDaNang  
+- **Bước 4:** Hoàn thành ít nhất **3 Quests** và share hình các Huy Hiệu lên facebook kèm hashtag `#DataMachineLearningStudyJamVN` `#GDGCloudHCM` `#GDGCloudHanoi` `#GDGCloudDaNang`  
 
 > ⚠️ **Bắt buộc:** Submit các thông tin: Qwiklabs Profile, Email,... tại: [https://bit.ly/data-ml-vn](https://docs.google.com/forms/d/e/1FAIpQLScu9C0gqysFQhmoYUUMUTyA7k33WrziJBcYUyxj6FqvK1oW_w/viewform)
 
