@@ -20,7 +20,10 @@ Sẽ có rất nhiều những [giải thưởng](#giai-thuong) hấp dẫn dàn
 
 ### 1. Đăng ký tham gia
 
-Tham gia kênh Slack của GDG Cloud Vietnam tại [https://gdgcloudvn.slack.com/](https://gdgcloudvietnam-slack.herokuapp.com)
+Tham gia kênh Slack của GDG Cloud Vietnam tại [https://gdgcloudvn.slack.com/](https://gdgcloudvietnam-slack.herokuapp.com)  
+
+Tham gia Group Facebook chính thức của GDG Cloud Vietnam [https://www.facebook.com/groups/GDGCloudVietnam/](https://www.facebook.com/groups/GDGCloudVietnam/)
+
 
 ### 2. Cách kích hoạt một tháng miễn phí sử dụng Qwiklabs
 
@@ -30,9 +33,9 @@ Tham gia kênh Slack của GDG Cloud Vietnam tại [https://gdgcloudvn.slack.com
 
 - **Bước 2:** Đăng nhập vào Qwiklabs, nếu bạn chưa có tài khoản Qwiklabs, hãy tạo mới một tài khoản, việc này luôn miễn phí :)
 
-- **Bước 3:** Hoàn thành 1 Lab trong Quest **`Baseline: Data, ML, AI`** ở bước 1. Nếu bạn từng tham gia và hoàn thành Quest này rồi, vui lòng dùng một Email khác để đăng ký và làm lại để có quyền truy cập Qwiklabs miễn phí 1 tháng.
+- **Bước 3:** Hoàn thành bài Lab [AI Platform: Qwik Start](https://google.qwiklabs.com/focuses/581?parent=catalog&qlcampaign=6s-vnsdj-25) trong Quest **[`Baseline: Data, ML, AI`](https://google.qwiklabs.com/quests/34?qlcampaign=6s-vnsdj-25)** ở bước 1. Nếu bạn từng tham gia và hoàn thành Quest này rồi, vui lòng dùng một Email khác để đăng ký và hoàn thành Lab [AI Platform: Qwik Start](https://google.qwiklabs.com/focuses/581?parent=catalog&qlcampaign=6s-vnsdj-25), sau khi End Lab, các bạn đã có quyền truy cập Qwiklabs miễn phí 1 tháng.
 
-- **Bước 4:** Hoàn thành ít nhất **3 Quests** và share hình các Huy Hiệu lên facebook kèm hashtag `#DataMachineLearningStudyJamVN` `#GDGCloudHCM` `#GDGCloudHanoi` `#GDGCloudDaNang`  
+- **Bước 4:** Hoàn thành ít nhất **3 Quests** và share hình các Huy Hiệu lên facebook kèm hashtag `#DataMachineLearningStudyJamVN` `#GDGCloudHCM` `#GDGCloudHanoi` `#GDGCloudDaNang`
 
 > ⚠️ **Bắt buộc:** Submit các thông tin: Qwiklabs Profile, Email,... tại: [https://bit.ly/data-ml-vn](https://docs.google.com/forms/d/e/1FAIpQLScu9C0gqysFQhmoYUUMUTyA7k33WrziJBcYUyxj6FqvK1oW_w/viewform)
 
