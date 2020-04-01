@@ -39,6 +39,7 @@ Tham gia Group Facebook chính thức của GDG Cloud Vietnam [https://www.faceb
 
 > ⚠️ **Bắt buộc:** Submit các thông tin: Qwiklabs Profile, Email,... tại: [https://bit.ly/data-ml-vn](https://docs.google.com/forms/d/e/1FAIpQLScu9C0gqysFQhmoYUUMUTyA7k33WrziJBcYUyxj6FqvK1oW_w/viewform)
 
+<a name="qwiklabs-list"></a>
 ***Danh sách các Quest trên Qwiklabs:***
 
 | Quest                                     | Qwiklabs link                                                            |
@@ -70,7 +71,11 @@ Tham gia Group Facebook chính thức của GDG Cloud Vietnam [https://www.faceb
 |-------------------------------------------|--------------------------------------------------------------------------|
 | Hoàn thành 3 Quests trên Qwiklabs    | 1 áo T-shirt của Google Cloud + Sticker                                  |
 | Hoàn thành khóa Machine Learning with TensorFlow trên Coursera | 1 áo T-shirt của TensorFlow + 1 Coupon MIỄN PHÍ khi thi chứng chỉ Google Cloud Platform trị giá $200 |
-| 9 bạn hoàn thành sớm nhất cả hai khóa học       | Google Home Mini |
+| 9 bạn hoàn thành sớm nhất cả hai khóa học       | [9 Google Home Mini](https://store.google.com/us/product/google_nest_mini?hl=en-US) |
+| 1 bạn hoàn thành nhiều Quests nhất từ 27/3 đến 1/4.       | [1 T-shirt Kubernetes ](https://scontent-hkt1-1.xx.fbcdn.net/v/t1.0-9/91363006_887019848410236_4174872614470156288_o.jpg?_nc_cat=103&_nc_sid=ca434c&_nc_ohc=b4u2na59SVQAX9khABB&_nc_ht=scontent-hkt1-1.xx&oh=4099dd9f9574d4b84b37c65c7666f82c&oe=5EAA1E5A) |
+| 5 bạn hoàn thành nhiều Quests Qwiklabs nhất, trong đó phải bao gồm toàn bộ các Quests ở [danh sách này](#qwiklabs-list)     | [5 Chuột không dây Logitech M590 Silent](https://www.logitech.com/vi-vn/product/m590-silent-wireless-mouse) |
+
+
 
 
 > **`Lưu ý:`** Thời gian đạt được các Huy Hiệu trên Qwiklabs và khóa học trên Coursera phải **sau 21/03/2020**, BTC sẽ còn cập nhật nhiều phần quà giá trị khác từ Google Cloud cho các bạn hoàn thành tốt.
