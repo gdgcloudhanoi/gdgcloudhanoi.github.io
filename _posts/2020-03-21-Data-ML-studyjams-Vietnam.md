@@ -8,7 +8,7 @@ tags: [Machine Learning, Data, Study Jams, Google Cloud, GDG]
 
 *Những điều cần biết cho [Data and Machine Learning Study Jam in Vietnam 2020](https://www.facebook.com/events/557381181797478/)*  
 
-Data & Machine Learning Study Jam in Vietnam 2020 là khoá học miễn phí được đồng tổ chức bởi [GDG Cloud HCM](https://www.facebook.com/gdgchcm/), [GDG Cloud Hanoi](https://www.facebook.com/GDGCloudHanoi/) và [GDG Cloud Da Nang](https://www.facebook.com/GDGCloudDaNang/) nhằm mang đến những kiến thức nền tảng về các công nghệ của [Google Cloud Platform](https://console.cloud.google.com/getting-started) cho các bạn yêu thích công nghệ thông tin nói chung và Google Cloud nói riêng.
+**Data & Machine Learning Study Jam in Vietnam 2020** (diễn ra từ ngày 21/3/2020 đến 21/4/2020) là khoá học miễn phí được đồng tổ chức bởi [GDG Cloud HCM](https://www.facebook.com/gdgchcm/), [GDG Cloud Hanoi](https://www.facebook.com/GDGCloudHanoi/) và [GDG Cloud Da Nang](https://www.facebook.com/GDGCloudDaNang/) nhằm mang đến những kiến thức nền tảng về các công nghệ của [Google Cloud Platform](https://console.cloud.google.com/getting-started) cho các bạn yêu thích công nghệ thông tin nói chung và Google Cloud nói riêng.
 
 Đặc biệt khóa học sẽ được tổ chức ONLINE nên tất cả các bạn có thể tham dự bất cứ lúc nào và bất cứ đâu trong mùa dịch bệnh đang căng thẳng.
 
