@@ -70,7 +70,7 @@ Tham gia Group Facebook chính thức của GDG Cloud Vietnam [https://www.faceb
 | Thành tích                                     | Phần thưởng                                                           |
 |-------------------------------------------|--------------------------------------------------------------------------|
 | Hoàn thành 3 Quests trên Qwiklabs    | 1 áo T-shirt của Google Cloud + Sticker                                  |
-| Hoàn thành khóa Machine Learning with TensorFlow trên Coursera | 1 áo T-shirt của TensorFlow + 1 phần quà sẽ được bật mí sau |
+| Hoàn thành khóa Machine Learning with TensorFlow trên Coursera | 1 áo T-shirt của TensorFlow + [1 túi đeo chéo GDG Cloud Vietnam](https://www.facebook.com/groups/GDGCloudVietnam/permalink/511820112824025/) |
 | 9 bạn hoàn thành sớm nhất cả hai khóa học       | [9 Google Home Mini](https://store.google.com/us/product/google_nest_mini?hl=en-US) |
 | 1 bạn hoàn thành nhiều Quests nhất từ 27/3 đến 1/4.       | [1 T-shirt Kubernetes ](https://scontent-hkt1-1.xx.fbcdn.net/v/t1.0-9/91363006_887019848410236_4174872614470156288_o.jpg?_nc_cat=103&_nc_sid=ca434c&_nc_ohc=b4u2na59SVQAX9khABB&_nc_ht=scontent-hkt1-1.xx&oh=4099dd9f9574d4b84b37c65c7666f82c&oe=5EAA1E5A) |
 | 5 bạn hoàn thành nhiều Quests Qwiklabs nhất, trong đó phải bao gồm toàn bộ các Quests ở [danh sách này](#qwiklabs-list)     | [5 Chuột không dây Logitech M590 Silent](https://www.logitech.com/vi-vn/product/m590-silent-wireless-mouse) |
