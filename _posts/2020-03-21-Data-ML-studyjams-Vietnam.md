@@ -8,7 +8,7 @@ tags: [Machine Learning, Data, Study Jams, Google Cloud, GDG]
 
 *Những điều cần biết cho [Data and Machine Learning Study Jam in Vietnam 2020](https://www.facebook.com/events/557381181797478/)*  
 
-**Data & Machine Learning Study Jam in Vietnam 2020** (diễn ra từ ngày 21/3/2020 đến 21/4/2020) là khoá học miễn phí được đồng tổ chức bởi [GDG Cloud HCM](https://www.facebook.com/gdgchcm/), [GDG Cloud Hanoi](https://www.facebook.com/GDGCloudHanoi/) và [GDG Cloud Da Nang](https://www.facebook.com/GDGCloudDaNang/) nhằm mang đến những kiến thức nền tảng về các công nghệ của [Google Cloud Platform](https://console.cloud.google.com/getting-started) cho các bạn yêu thích công nghệ thông tin nói chung và Google Cloud nói riêng.
+**Data & Machine Learning Study Jam in Vietnam 2020** (diễn ra từ ngày 21/3/2020 đến 30/4/2020) là khoá học miễn phí được đồng tổ chức bởi [GDG Cloud HCM](https://www.facebook.com/gdgchcm/), [GDG Cloud Hanoi](https://www.facebook.com/GDGCloudHanoi/) và [GDG Cloud Da Nang](https://www.facebook.com/GDGCloudDaNang/) nhằm mang đến những kiến thức nền tảng về các công nghệ của [Google Cloud Platform](https://console.cloud.google.com/getting-started) cho các bạn yêu thích công nghệ thông tin nói chung và Google Cloud nói riêng.
 
 Đặc biệt khóa học sẽ được tổ chức ONLINE nên tất cả các bạn có thể tham dự bất cứ lúc nào và bất cứ đâu trong mùa dịch bệnh đang căng thẳng.
 
@@ -67,15 +67,15 @@ Tham gia Group Facebook chính thức của GDG Cloud Vietnam [https://www.faceb
 <a name="giai-thuong"></a>
 ### 4. Phần thưởng
 
-| Thành tích                                     | Phần thưởng                                                           |
-|-------------------------------------------|--------------------------------------------------------------------------|
-| Hoàn thành 3 Quests trên Qwiklabs    | 1 áo T-shirt của Google Cloud + Sticker                                  |
-| Hoàn thành khóa Machine Learning with TensorFlow trên Coursera | 1 áo T-shirt của TensorFlow + [1 túi đeo chéo GDG Cloud Vietnam](https://www.facebook.com/groups/GDGCloudVietnam/permalink/511820112824025/) |
-| 9 bạn hoàn thành sớm nhất cả hai khóa học       | [9 Google Home Mini](https://store.google.com/us/product/google_nest_mini?hl=en-US) |
-| 1 bạn hoàn thành nhiều Quests nhất từ 27/3 đến 1/4.       | [1 T-shirt Kubernetes ](https://scontent-hkt1-1.xx.fbcdn.net/v/t1.0-9/91363006_887019848410236_4174872614470156288_o.jpg?_nc_cat=103&_nc_sid=ca434c&_nc_ohc=b4u2na59SVQAX9khABB&_nc_ht=scontent-hkt1-1.xx&oh=4099dd9f9574d4b84b37c65c7666f82c&oe=5EAA1E5A) |
-| 5 bạn hoàn thành nhiều Quests Qwiklabs nhất từ 21/3-21/4/2020, trong đó phải bao gồm toàn bộ các Quests ở [danh sách này](#qwiklabs-list)     | [5 Chuột không dây Logitech M590 Silent](https://www.logitech.com/vi-vn/product/m590-silent-wireless-mouse) |
-
-
+| Thành tích                                                                                                                                    | Phần thưởng                                                                                                                                                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hoàn thành 3 Quests trên Qwiklabs                                                                                                             | 1 áo T-shirt của Google Cloud + Sticker                                                                                                                                                                                                                    |
+| Hoàn thành khóa Machine Learning with TensorFlow trên Coursera                                                                                | 1 áo T-shirt của TensorFlow + [1 túi đeo chéo GDG Cloud Vietnam](https://www.facebook.com/groups/GDGCloudVietnam/permalink/511820112824025/)                                                                                                               |
+| 9 bạn hoàn thành sớm nhất cả hai khóa học                                                                                                     | [9 Google Home Mini](https://store.google.com/us/product/google_nest_mini?hl=en-US)                                                                                                                                                                        |
+| 1 bạn hoàn thành nhiều Quests nhất từ 27/3 đến 1/4                                                                                            | [1 T-shirt Kubernetes ](https://scontent-hkt1-1.xx.fbcdn.net/v/t1.0-9/91363006_887019848410236_4174872614470156288_o.jpg?_nc_cat=103&_nc_sid=ca434c&_nc_ohc=b4u2na59SVQAX9khABB&_nc_ht=scontent-hkt1-1.xx&oh=4099dd9f9574d4b84b37c65c7666f82c&oe=5EAA1E5A) |
+| 5 bạn hoàn thành nhiều Quests Qwiklabs nhất từ 21/3 đến 21/4/2020, trong đó phải bao gồm toàn bộ các Quests ở [danh sách này](#qwiklabs-list) | [5 Chuột không dây Logitech M590 Silent](https://www.logitech.com/vi-vn/product/m590-silent-wireless-mouse)                                                                                                                                                |
+| 10 bạn hoàn thành nhiều Quests nhất trong khoảng thời gian từ 8-21/4/2020                                                                     | 10 phần quà: Bình giữ nhiệt, USB, Cable đa năng                                                                                                                                                                                                            |
+| 5 thành viên active và nhiệt tình hỗ trợ những bạn khác hoàn thành khoá học trên kênh Slack của GDG Cloud Vietnam                             | 5 phần quà: Bình giữ nhiệt, USB, Cable đa năng                                                                                                                                                                                                             |
 
 
 > **`Lưu ý:`** Thời gian đạt được các Huy Hiệu trên Qwiklabs và khóa học trên Coursera phải **sau 21/03/2020**, BTC sẽ còn cập nhật nhiều phần quà giá trị khác từ Google Cloud cho các bạn hoàn thành tốt.
